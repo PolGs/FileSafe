@@ -1,0 +1,9 @@
+D:\My Files\Documents\C GUI\SafeFile\SafeFile Forms\SafeFile Forms\bin\Debug\SafeFile Forms.exe.config
+D:\My Files\Documents\C GUI\SafeFile\SafeFile Forms\SafeFile Forms\bin\Debug\SafeFile Forms.exe
+D:\My Files\Documents\C GUI\SafeFile\SafeFile Forms\SafeFile Forms\bin\Debug\SafeFile Forms.pdb
+D:\My Files\Documents\C GUI\SafeFile\SafeFile Forms\SafeFile Forms\obj\Debug\SafeFile_Forms.Form1.resources
+D:\My Files\Documents\C GUI\SafeFile\SafeFile Forms\SafeFile Forms\obj\Debug\SafeFile_Forms.Properties.Resources.resources
+D:\My Files\Documents\C GUI\SafeFile\SafeFile Forms\SafeFile Forms\obj\Debug\SafeFile Forms.csproj.GenerateResource.cache
+D:\My Files\Documents\C GUI\SafeFile\SafeFile Forms\SafeFile Forms\obj\Debug\SafeFile Forms.csproj.CoreCompileInputs.cache
+D:\My Files\Documents\C GUI\SafeFile\SafeFile Forms\SafeFile Forms\obj\Debug\SafeFile Forms.exe
+D:\My Files\Documents\C GUI\SafeFile\SafeFile Forms\SafeFile Forms\obj\Debug\SafeFile Forms.pdb
